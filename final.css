@@ -407,14 +407,14 @@ input {
 } 
 @media(max-width:1264px) {
     .search-box2 .shopnow1 {
-     font-size:14px;
+   width:25%;
     }
     .shopnow {
         font-size:15px;
     }
 }
 
-/* @media(max-width:1024px) {
+@media(max-width:1024px) {
     .shopnow {
         width: 33%;
     }
@@ -432,7 +432,7 @@ input {
         width: 20%;
 
     }
-} */
+}
 
 @media (max-width:769px) {
     .home {
