@@ -404,8 +404,17 @@ input {
     
     font-size:0px; 
      color:gray;
-}  
-@media(max-width:1025px) {
+} 
+@media(max-width:1264px) {
+    .search-box2 .shopnow1 {
+     font-size:15px;
+    }
+    .shopnow {
+        font-size:15px;
+    }
+}
+
+@media(max-width:1024px) {
     .shopnow {
         width: 33%;
     }
@@ -596,12 +605,5 @@ input {
    
 }
 }
-@media(max-width:1264px) {
-    .search-box2 .shopnow1 {
-     font-size:15px;
-    }
-    .shopnow {
-        font-size:15px;
-    }
-}
+
 
