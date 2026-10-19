@@ -68,7 +68,7 @@ button:hover {
 .main2 {
     display: flex;
     gap: 2rem;
-    padding: 10px 0px 65px 0px;
+    padding: 20px 0px 65px 0px;
 }
 
 .popup {
