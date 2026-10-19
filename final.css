@@ -414,7 +414,7 @@ input {
     }
 }
 
-@media(max-width:1024px) {
+/* @media(max-width:1024px) {
     .shopnow {
         width: 33%;
     }
@@ -432,7 +432,7 @@ input {
         width: 20%;
 
     }
-}
+} */
 
 @media (max-width:769px) {
     .home {
