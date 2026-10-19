@@ -231,6 +231,7 @@ button:hover {
 .layer3 .pp {
     color: #6366f1;
     font-size: 13px;
+    padding-left:20px;
 }
 
 .layer3 h2 {
@@ -240,6 +241,7 @@ button:hover {
 .search-box {
     display: flex;
     justify-content: space-between;
+    padding-left:20px;
 }
 
 input {
